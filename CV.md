@@ -29,15 +29,17 @@ I love programming.
 Education
 ------------
 
-2008 - 2013
-:   **Hanoi University of Science and Technology**
+**2008 - 2013**
 
-    *Faculty of Electronics and Telecommunications*
+**Hanoi University of Science and Technology**
 
-08/2014 - 10/2014
-:   **SEO Pro Internet Marketing 41 - Litado**
+*Faculty of Electronics and Telecommunications*
 
-    *SEO Website Training Course*
+**08/2014 - 10/2014**
+
+**SEO Pro Internet Marketing 41 - Litado**
+
+*SEO Website Training Course*
 
 ## Experience
 ### FujitechjJSC
