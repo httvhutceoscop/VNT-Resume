@@ -1,5 +1,4 @@
-
-![](https://lh4.googleusercontent.com/YFPiz8veawAw4Bfh6jdBfZa7-pf0FaeXXRBg4L-swXvrvvfMNwTfgqdNUvzznLad1Iy3M-dc0sYLm17FNK9b=w2560-h1300 =200x)
+![VietNT Avatar](https://sv1.uphinhnhanh.com/images/2018/05/19/CV-NguyenTienViet-200.png "VietNT Avatar")
 ## Nguyen Tien Viet
 
 ### Web Developer
