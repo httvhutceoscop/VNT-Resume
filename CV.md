@@ -3,15 +3,22 @@
 ## Nguyen Tien Viet
 
 ### Web Developer
--------------------     ----------------------------
+-------------------
 Birthday: November 10, 1990
+
 Address: Vinh Quynh - Thanh Tri - Ha Noi
+
 Mobile: +84 986 901110, +84 168 992 4896
+
 Email: tienvietnguyen1110@gmail.com
+
 Skype: tienvietnguyen1110
+
 GitHub: http://github.com/httvhutceoscop
+
 Website: http://toilamit.com/, http://jpviet.com/
--------------------     ----------------------------
+
+-------------------
 
 Introduction
 --------------
