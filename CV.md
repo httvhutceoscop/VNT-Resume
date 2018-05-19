@@ -126,4 +126,13 @@ Education
 | Honesty and trusty | **100%** |
 | English | **80%** |
 | Japanese | **40%** |
+## Hobbits
+- Playing football
+- Listening to music - Watching  lms
+- Photographing
+- Reading books
+# Thank you!
+**Mobile**: +84 168 992 4896, +84 986 90 1110
+
+**Email**: tienvietnguyen1110@gmail.com
 
