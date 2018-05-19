@@ -4,19 +4,19 @@
 
 ### Web Developer
 -------------------
-Birthday: November 10, 1990
+**Birthday**: November 10, 1990
 
-Address: Vinh Quynh - Thanh Tri - Ha Noi
+**Address**: Vinh Quynh - Thanh Tri - Ha Noi
 
-Mobile: +84 986 901110, +84 168 992 4896
+**Mobile**: +84 986 901110, +84 168 992 4896
 
-Email: tienvietnguyen1110@gmail.com
+**Email**: tienvietnguyen1110@gmail.com
 
-Skype: tienvietnguyen1110
+**Skype**: tienvietnguyen1110
 
-GitHub: http://github.com/httvhutceoscop
+**GitHub**: http://github.com/httvhutceoscop
 
-Website: http://toilamit.com/, http://jpviet.com/
+**Website**: http://toilamit.com/, http://jpviet.com/
 
 -------------------
 
@@ -32,10 +32,12 @@ Education
 
 2008 - 2013
 :   **Hanoi University of Science and Technology**
+
     *Faculty of Electronics and Telecommunications*
 
 08/2014 - 10/2014
 :   **SEO Pro Internet Marketing 41 - Litado**
+
     *SEO Website Training Course*
 
 ## Experience
