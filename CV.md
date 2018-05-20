@@ -49,11 +49,11 @@ Education
 - Deploy, release products by using Git.
 
 #### Completed Major Projects
-- Treco: Xây dựng website đánh giá nhân viên, quản lý các survey. https://treco.achievement.co.jp
+- Treco: Building a staff evaluation website, manage surveys. https://treco.achievement.co.jp
 - Acrospera: Building websites to introduce businesses, restaurants. https://www.suminozuimade.com/, https://www.ran-hongkong.com/, ...
 - Winners: Developing features to search jobs and search areas.
 - Building CRM website for student status analysis and reporting.
-- Website cho đặt sách online: http://motsachmogu.vn/
+- Website buying book online: http://motsachmogu.vn/
 - Website introducing game shinchan: http://shinchan.vn/
 - Website introducing company: http://zodia-q.com/
 - Website booking event: https://narhanoiforum.com/
