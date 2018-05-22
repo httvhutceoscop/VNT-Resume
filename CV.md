@@ -44,7 +44,7 @@ Education
 ## Experience
 ### FujitechjJSC
 *From March 2017 to present*
-- Programming website using PHP and Yii2 framework, Laravel.
+- Programming website using PHP and Yii2 framework, Laravel, AngularJS.
 - Server administration, installing and configuring Linux server on  Centos with webservices such as: Apache, Nginx, PHP và MySQL. Almost using Docker.
 - Deploy, release products by using Git.
 
