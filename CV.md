@@ -104,21 +104,23 @@ Education
 | Git, SVN | **80%** |
 
 ### Adobe Creative Cloud
-| | |
+| Title | Level |
 | --- | --- |
 | Photoshop | **80%** |
 | Illustrator | **50%** |
 | InDesign | **70%** |
 | Dreamweaver | **90%** |
 | After Effects | **45%** |
+
 ### Microsoft Office
-| | |
+| Title | Level |
 | --- | --- |
 | Word | **90%** |
 | Excel | **85%** |
 | Powerpoint | **85%** |
+
 ## Soft Skills
-|  |  |
+| Title | Level |
 |--|--|
 | Communication | **95%** |
 | Creativity and thinking | **90%** |
@@ -126,6 +128,7 @@ Education
 | Honesty and trusty | **100%** |
 | English | **80%** |
 | Japanese | **40%** |
+
 ## Hobbits
 - Playing football
 - Listening to music - Watching  lms
