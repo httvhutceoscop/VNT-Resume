@@ -7,7 +7,7 @@
 
 **Address**: Vinh Quynh - Thanh Tri - Ha Noi
 
-**Mobile**: +84 986 901110, +84 168 992 4896
+**Mobile**: +84 986 901110
 
 **Email**: tienvietnguyen1110@gmail.com
 
@@ -40,6 +40,12 @@ Education
 **SEO Pro Internet Marketing 41 - Litado**
 
 *SEO Website Training Course*
+
+**06/2018 - 09/2018**
+
+**Mina Japanese Center**
+
+*N4 - Japanese Course*
 
 ## Experience
 ### FujitechjJSC
@@ -89,7 +95,7 @@ Education
 | Title | Level |
 |---|---|
 | HTML5 / CSS3 | **95%** |
-| Nodejs / AngularJS | **85%** |
+| Nodejs / AngularJS / VueJS | **85%** |
 | Javascript / Ajax | **85%** |
 | Boostrap / Grid CSS | **80%** |
 | Less / Sass | **80%** |
@@ -100,8 +106,12 @@ Education
 | C#, .NET | **95%** |
 | PHP | **95%** |
 | MySQL / SQL | **95%** |
-| Laravel, MVC, Yii2 | **95%** |
+| Laravel, MVC, Yii2, FuelPHP | **95%** |
 | Git, SVN | **80%** |
+| Jenkin | **60%** |
+| Ubuntu / CentOS | **80%** |
+| Apache / Nginx | **80%** |
+| Docker | **60%** |
 
 ### Adobe Creative Cloud
 | Title | Level |
@@ -125,17 +135,19 @@ Education
 | Communication | **95%** |
 | Creativity and thinking | **90%** |
 | Teamworking | **90%** |
+| Making plan, schedule | **80%** |
 | Honesty and trusty | **100%** |
 | English | **80%** |
 | Japanese | **40%** |
 
 ## Hobbits
-- Playing football
-- Listening to music - Watching  lms
-- Photographing
 - Reading books
+- Playing football
+- Listening to music - Watching films
+- Photographing
+- Drinkng beer
 # Thank you!
-**Mobile**: +84 168 992 4896, +84 986 90 1110
+**Mobile**: +84 986 90 1110
 
 **Email**: tienvietnguyen1110@gmail.com
 
