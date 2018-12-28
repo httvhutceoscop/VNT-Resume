@@ -86,7 +86,7 @@ Education
 
 ## Professional Skills
 ### Web Programming
-|  |  |
+| Title | Level |
 |---|---|
 | HTML5 / CSS3 | **95%** |
 | Nodejs / AngularJS | **85%** |
