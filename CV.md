@@ -112,6 +112,7 @@ Education
 | Ubuntu / CentOS | **80%** |
 | Apache / Nginx | **80%** |
 | Docker | **60%** |
+| Markdown | **80%** |
 
 ### Adobe Creative Cloud
 | Title | Level |
