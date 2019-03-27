@@ -1,4 +1,4 @@
-![VietNT Avatar](https://sv1.uphinhnhanh.com/images/2018/05/19/CV-NguyenTienViet-200.png "VietNT Avatar")
+![VietNT Avatar](https://drive.google.com/file/d/1fEr2VFIbtzZXB_wHe94WFtR0wIyInWK3/view?usp=sharing "VietNT Avatar")
 ## Nguyen Tien Viet
 
 ### Web Developer
