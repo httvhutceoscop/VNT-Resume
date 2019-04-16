@@ -1,14 +1,14 @@
 {
-  "main.css": "/vnt-resume/static/css/main.50a163d4.chunk.css",
-  "main.js": "/vnt-resume/static/js/main.5d886b73.chunk.js",
-  "main.js.map": "/vnt-resume/static/js/main.5d886b73.chunk.js.map",
-  "runtime~main.js": "/vnt-resume/static/js/runtime~main.932188a2.js",
-  "runtime~main.js.map": "/vnt-resume/static/js/runtime~main.932188a2.js.map",
-  "static/js/2.4b44abd2.chunk.js": "/vnt-resume/static/js/2.4b44abd2.chunk.js",
-  "static/js/2.4b44abd2.chunk.js.map": "/vnt-resume/static/js/2.4b44abd2.chunk.js.map",
-  "index.html": "/vnt-resume/index.html",
-  "precache-manifest.67f8621c60a42ce3c9f0f4b03871fe30.js": "/vnt-resume/precache-manifest.67f8621c60a42ce3c9f0f4b03871fe30.js",
-  "service-worker.js": "/vnt-resume/service-worker.js",
-  "static/css/main.50a163d4.chunk.css.map": "/vnt-resume/static/css/main.50a163d4.chunk.css.map",
-  "static/media/logo.svg": "/vnt-resume/static/media/logo.5d5d9eef.svg"
+  "main.css": "/VNT-Resume/static/css/main.be49d660.chunk.css",
+  "main.js": "/VNT-Resume/static/js/main.85408350.chunk.js",
+  "main.js.map": "/VNT-Resume/static/js/main.85408350.chunk.js.map",
+  "runtime~main.js": "/VNT-Resume/static/js/runtime~main.58477628.js",
+  "runtime~main.js.map": "/VNT-Resume/static/js/runtime~main.58477628.js.map",
+  "static/js/2.4b44abd2.chunk.js": "/VNT-Resume/static/js/2.4b44abd2.chunk.js",
+  "static/js/2.4b44abd2.chunk.js.map": "/VNT-Resume/static/js/2.4b44abd2.chunk.js.map",
+  "index.html": "/VNT-Resume/index.html",
+  "precache-manifest.56c77be737f55297ee4be2cf91b9979d.js": "/VNT-Resume/precache-manifest.56c77be737f55297ee4be2cf91b9979d.js",
+  "service-worker.js": "/VNT-Resume/service-worker.js",
+  "static/css/main.be49d660.chunk.css.map": "/VNT-Resume/static/css/main.be49d660.chunk.css.map",
+  "static/media/logo.svg": "/VNT-Resume/static/media/logo.5d5d9eef.svg"
 }
