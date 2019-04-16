@@ -1,25 +1,20 @@
 import React, { Component } from 'react';
 import logo from './logo.svg';
-import './App.css';
+import Footer from './components/Footer';
+import LeftContent from './components/LeftContent';
+import RightContent from './components/RightContent';
 
 class App extends Component {
   render() {
     return (
-      <div className="App">
-        <header className="App-header">
-          <img src={logo} className="App-logo" alt="logo" />
-          <p>
-            Edit <code>src/App.js</code> and save to reload.
-          </p>
-          <a
-            className="App-link"
-            href="https://reactjs.org"
-            target="_blank"
-            rel="noopener noreferrer"
-          >
-            Learn React
-          </a>
-        </header>
+      <div className="wrapper">
+        <div className="w3-content w3-margin-top" style={{maxWidth: 1400}}>
+          <div className="w3-row-padding">
+            <LeftContent />
+            <RightContent />
+          </div>
+        </div>
+        <Footer />
       </div>
     );
   }
