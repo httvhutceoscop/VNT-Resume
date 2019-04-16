@@ -12,19 +12,19 @@ self.__precacheManifest = [
     "url": "/VNT-Resume/static/js/runtime~main.58477628.js"
   },
   {
-    "revision": "8a9424f2de6ba6169d63",
-    "url": "/VNT-Resume/static/js/main.73ec7914.chunk.js"
+    "revision": "4203294b0ec2676cd8e1",
+    "url": "/VNT-Resume/static/js/main.578021b8.chunk.js"
   },
   {
     "revision": "0154f9689bcca81074f4",
     "url": "/VNT-Resume/static/js/2.be2527d6.chunk.js"
   },
   {
-    "revision": "8a9424f2de6ba6169d63",
+    "revision": "4203294b0ec2676cd8e1",
     "url": "/VNT-Resume/static/css/main.dfe6778d.chunk.css"
   },
   {
-    "revision": "4127838cf5ae2afc7bdffa520b2b198a",
+    "revision": "e00fecf0c95e126ac248229dbc8ed3df",
     "url": "/VNT-Resume/index.html"
   }
 ];
