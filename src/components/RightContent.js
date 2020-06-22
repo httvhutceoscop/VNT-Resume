@@ -39,6 +39,20 @@ class RightContent extends Component {
                     </p>
                     <h6>Completed Major Projects</h6>
                     <ul>
+                        <li>
+                            <strong>Affiliate Friends</strong>
+                            <ul>
+                                <li>Build system to manage the rewards from many service providers. <br />Export CSV report daily, monthly, yearly</li>
+                                <li>Technical: Python, Django, Html5, CSS3, Bootstrap 4, jQuery, <br />AWS EC2, Lambda Function, DynamoDB, RDS - PostgreSQL, CloudWatch, Redis, Celery</li>
+                            </ul>
+                        </li>
+                        <li>
+                            <strong>Ninja Points App</strong>
+                            <ul>
+                                <li>Build system to manage the reward points for merchant. Give points whenever user finish purchasing.</li>
+                                <li>Technial: C#, .Net, Html5, CSS3, Bootstrap 4, jQuery, AzurePortals, AzureDevOps, SQL</li>
+                            </ul>
+                        </li>
                         <li>Treco: Building a staff evaluation website, manage surveys. https://treco.achievement.co.jp</li>
                         <li>Acrospera: Building websites to introduce businesses, restaurants. https://www.suminozuimade.com/, https://www.ran-hongkong.com/, ...</li>
                         <li>Winners: Developing features to search jobs and search areas.</li>

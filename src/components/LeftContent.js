@@ -10,13 +10,13 @@ class LeftContent extends Component {
                 {name: 'HTML5 / CSS3', value: 95},
                 {name: 'Nodejs / AngularJS / VueJS', value: 85},
                 {name: 'Javascript / Ajax', value: 85},
-                {name: 'Boostrap / Grid CSS', value: 80},
-                {name: 'Less / Sass', value: 80},
+                {name: 'Boostrap / Grid CSS / Less / Sass', value: 80},
                 {name: 'JSON / JSONP / XML', value: 85},
                 {name: 'SEO', value: 65},
                 {name: 'Drupal', value: 95},
                 {name: 'Wordpress', value: 95},
                 {name: 'C#, .NET', value: 95},
+                {name: 'Python, Django', value: 80},
                 {name: 'PHP', value: 95},
                 {name: 'MySQL / SQL', value: 95},
                 {name: 'Laravel, MVC, Yii2, FuelPHP', value: 95},
@@ -26,6 +26,12 @@ class LeftContent extends Component {
                 {name: 'Apache / Nginx', value: 80},
                 {name: 'Docker', value: 60},
                 {name: 'Markdown', value: 80},
+            ],
+        },{
+            type: 'System Cloud',
+            items: [
+                {name: 'AWS / EC2 / Lambda / DynamoDB', value: 70},
+                {name: 'Microsof Azure', value: 60},
             ],
         },{
             type: 'Adobe Creative Cloud',
@@ -105,7 +111,7 @@ class LeftContent extends Component {
                 </div>
                 <div className="w3-container">
                     <p><i className="fa fa-briefcase fa-fw w3-margin-right w3-large w3-text-teal"></i>
-                        Developer
+                        Leader, Developer
                     </p>
                     <p><i className="fa fa-birthday-cake fa-fw w3-margin-right w3-large w3-text-teal"></i>
                         November 10, 1990
