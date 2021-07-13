@@ -2,6 +2,8 @@ import React, { Component } from 'react';
 import Footer from './components/Footer';
 import LeftContent from './components/LeftContent';
 import RightContent from './components/RightContent';
+import ReactGA from 'react-ga';
+ReactGA.initialize('G-HG5GGV358S');
 
 class App extends Component {
   render() {
