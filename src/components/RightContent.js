@@ -14,7 +14,7 @@ class RightContent extends Component {
                     I am very active in life, thirst for knowledge, and have high responsibility for my job.<br />
                     I love animals and sports, especially football.<br />
                     I am very interested in community activities.<br />
-                    I love programming.</p>
+                    I love programming and management.</p>
                     <br />
                 </div>
             </div>
@@ -32,6 +32,10 @@ class RightContent extends Component {
                     </h6>
                     <p>
                         <ul>
+                            <li>Analyzed and then effectively strategies in regard to business goals, deadlines, schedules, budgets, needed resources, and team member coordination</li>
+                            <li>Clearly communicated problems and progress to upper management via engaging and artful presentations</li>
+                            <li>Estimate project cost, build team and making the rules, convention</li>
+                            <li>Communicated with, coached, and coordinated project employees</li>
                             <li>Programming website using PHP and Yii2 framework, Laravel, AngularJS.</li>
                             <li>Server administration, installing and configuring Linux server on  Centos with webservices such as: Apache, Nginx, PHP và MySQL. Almost using Docker.</li>
                             <li>Deploy, release products by using Git.</li>
