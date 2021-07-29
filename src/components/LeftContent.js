@@ -152,12 +152,6 @@ class LeftContent extends Component {
               {info.BIRTHDAY}
             </p>
             <p>
-              <i className="fa fa-home fa-fw w3-margin-right w3-large w3-text-teal"></i>
-              <a target="_blank" href={info.ADDRESS_URL}>
-                {info.ADDRESS}
-              </a>
-            </p>
-            <p>
               <i className="fa fa-phone fa-fw w3-margin-right w3-large w3-text-teal"></i>
               <a target="_blank" href="tel:+84 986 901110">
                 {info.PHONE}

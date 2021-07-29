@@ -32,13 +32,32 @@ class RightContent extends Component {
                     </h6>
                     <p>
                         <ul>
-                            <li>Analyzed and then effectively strategies in regard to business goals, deadlines, schedules, budgets, needed resources, and team member coordination</li>
-                            <li>Clearly communicated problems and progress to upper management via engaging and artful presentations</li>
-                            <li>Estimate project cost, build team and making the rules, convention</li>
-                            <li>Communicated with, coached, and coordinated project employees</li>
-                            <li>Programming website using PHP and Yii2 framework, Laravel, AngularJS.</li>
-                            <li>Server administration, installing and configuring Linux server on  Centos with webservices such as: Apache, Nginx, PHP và MySQL. Almost using Docker.</li>
-                            <li>Deploy, release products by using Git.</li>
+                            <li>
+                                <strong>Project Manager Tasks</strong>
+                                <ul>
+                                    <li>Analyzed and then effectively strategies in regard to business goals, deadlines, schedules, budgets, needed resources, and team member coordination</li>
+                                    <li>Clearly communicated problems and progress to upper management via engaging and artful presentations</li>
+                                    <li>Estimate project cost, build team and making the rules, convention, people management and risk management</li>
+                                    <li>Communicated with, coached, and coordinated project employees</li>
+                                    <li>Manage work, teams, clients and reporting structure of Agile and Scrum Development Frameworks.</li>
+                                    <li>Lead and motivate the development team, supervise and evaluate team members, provide them with valid and constructive feedback, supportive and professional mentoring.</li>
+                                    <li>Engaging recruiter as interviewer</li>
+                                    <li>Take initiative in improving on reporting, processes, and workflow and client outcomes.</li>
+                                </ul>
+                            </li>
+                            <li>
+                                <strong>Leader Tasks</strong>
+                                <ul>
+                                    <li>Engaging and analyzing business, making basic design and detail design</li>
+                                    <li>Design database, architecture and infrastructure</li>
+                                    <li>Build development environment and deploy, release products by using Git</li>
+                                    <li>Making documentation and wiki</li>
+                                    <li>Creating tasks and assign tasks to member</li>
+                                    <li>Checking coding quality and process</li>
+                                    <li>Manage risks</li>
+                                    <li>Support and training members</li>
+                                </ul>
+                            </li>
                         </ul>
                     </p>
                     <h6>Completed Major Projects</h6>
@@ -47,19 +66,47 @@ class RightContent extends Component {
                             <strong>Affiliate Friends</strong>
                             <ul>
                                 <li>Build system to manage the rewards from many service providers. <br />Export CSV report daily, monthly, yearly</li>
-                                <li>Technical: Python, Django, Html5, CSS3, Bootstrap 4, jQuery, <br />AWS EC2, Lambda Function, DynamoDB, RDS - PostgreSQL, CloudWatch, Redis, Celery</li>
+                                <li>Position: PM / TL</li>
+                                <li>Technical: Python, Django, Html5, CSS3, Bootstrap 4, jQuery, <br />AWS EC2, Lambda Function, DynamoDB, RDS - PostgreSQL, SQS, SNS, ElasticBeanstalk, CloudWatch, Redis, Celery</li>
+                            </ul>
+                        </li>
+                        <li>
+                            <strong>JCCI</strong>
+                            <ul>
+                                <li>A website to show events and news about the Japanese Chamber of Commerce and Industry in Vietnam with multiple languages.</li>
+                                <li>Position: PM / TL</li>
+                                <li>Web: https://jcci.vn</li>
+                                <li>Technical: PHP, Wordpress, Html5, CSS3, Bootstrap, jQuery, MySQL, Google Analytic, AWS EC2, AWS CloudWatch</li>
+                            </ul>
+                        </li>
+                        <li>
+                            <strong>Powerwork</strong>
+                            <ul>
+                                <li>A website to search jobs and search areas.</li>
+                                <li>Position: PM / TL</li>
+                                <li>Web: https://powerwork.jp/</li>
+                                <li>Technical: PHP, , Html5, CSS3, jQuery, MySQL, Google Analytic, VPS, Apache</li>
+                            </ul>
+                        </li>
+                        <li>
+                            <strong>TRECO</strong>
+                            <ul>
+                                <li>Building a staff evaluation website, manage surveys.</li>
+                                <li>Position: TL</li>
+                                <li>Web: https://treco.achievement.co.jp</li>
+                                <li>Technical: PHP Laravel, Html5, CSS3, Bootstrap, jQuery, AngularJS, PostgreSQL, Google Analytic, AWS EC2, AWS CloudWatch, AWS RDS, AWS Route53, AWS SES, Zabbix, Docker</li>
                             </ul>
                         </li>
                         <li>
                             <strong>Ninja Points App</strong>
                             <ul>
                                 <li>Build system to manage the reward points for merchant. Give points whenever user finish purchasing.</li>
-                                <li>Technial: C#, .Net, Html5, CSS3, Bootstrap 4, jQuery, AzurePortals, AzureDevOps, SQL</li>
+                                <li>Position: TL</li>
+                                <li>App: https://spotted.cool/shopify-apps/%E3%83%9D%E3%82%A4%E3%83%B3%E3%83%88%E3%83%8B%E3%83%B3%E3%82%B8%E3%83%A3%E2%80%91point-ninja%E2%80%91/</li>
+                                <li>Technical: C#, .Net, Html5, CSS3, Bootstrap 4, jQuery, AzurePortals, AzureDevOps, SQL</li>
                             </ul>
                         </li>
-                        <li>Treco: Building a staff evaluation website, manage surveys. https://treco.achievement.co.jp</li>
                         <li>Acrospera: Building websites to introduce businesses, restaurants. https://www.suminozuimade.com/, https://www.ran-hongkong.com/, ...</li>
-                        <li>Winners: Developing features to search jobs and search areas.</li>
                         <li>Building CRM website for student status analysis and reporting.</li>
                         <li>Website buying book online: http://motsachmogu.vn/</li>
                         <li>Website introducing game shinchan: http://shinchan.vn/</li>
