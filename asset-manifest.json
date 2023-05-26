@@ -1,14 +1,14 @@
 {
-  "main.css": "/VNT-Resume/static/css/main.7bb99668.chunk.css",
-  "main.js": "/VNT-Resume/static/js/main.2f2e8b6e.chunk.js",
-  "main.js.map": "/VNT-Resume/static/js/main.2f2e8b6e.chunk.js.map",
+  "main.css": "/VNT-Resume/static/css/main.d311c5d9.chunk.css",
+  "main.js": "/VNT-Resume/static/js/main.cb649807.chunk.js",
+  "main.js.map": "/VNT-Resume/static/js/main.cb649807.chunk.js.map",
   "runtime~main.js": "/VNT-Resume/static/js/runtime~main.58477628.js",
   "runtime~main.js.map": "/VNT-Resume/static/js/runtime~main.58477628.js.map",
   "static/js/2.5ea26a04.chunk.js": "/VNT-Resume/static/js/2.5ea26a04.chunk.js",
   "static/js/2.5ea26a04.chunk.js.map": "/VNT-Resume/static/js/2.5ea26a04.chunk.js.map",
   "index.html": "/VNT-Resume/index.html",
-  "precache-manifest.01134aa07700a729c167799570878360.js": "/VNT-Resume/precache-manifest.01134aa07700a729c167799570878360.js",
+  "precache-manifest.bac548bb0824dc1803ee20a04f5eb3a8.js": "/VNT-Resume/precache-manifest.bac548bb0824dc1803ee20a04f5eb3a8.js",
   "service-worker.js": "/VNT-Resume/service-worker.js",
-  "static/css/main.7bb99668.chunk.css.map": "/VNT-Resume/static/css/main.7bb99668.chunk.css.map",
+  "static/css/main.d311c5d9.chunk.css.map": "/VNT-Resume/static/css/main.d311c5d9.chunk.css.map",
   "static/media/avatar.png": "/VNT-Resume/static/media/avatar.f516b390.png"
 }

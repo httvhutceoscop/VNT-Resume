@@ -1,11 +1,11 @@
 self.__precacheManifest = [
   {
-    "revision": "a6c4d0d301af2db09b1f",
-    "url": "/VNT-Resume/static/css/main.7bb99668.chunk.css"
+    "revision": "94d7276bd34ec95de7b4",
+    "url": "/VNT-Resume/static/css/main.d311c5d9.chunk.css"
   },
   {
-    "revision": "a6c4d0d301af2db09b1f",
-    "url": "/VNT-Resume/static/js/main.2f2e8b6e.chunk.js"
+    "revision": "94d7276bd34ec95de7b4",
+    "url": "/VNT-Resume/static/js/main.cb649807.chunk.js"
   },
   {
     "revision": "47e6e91c31a763d8be44",
@@ -20,7 +20,7 @@ self.__precacheManifest = [
     "url": "/VNT-Resume/static/media/avatar.f516b390.png"
   },
   {
-    "revision": "21eb829aa77d8d03eeb19519b41bcaf9",
+    "revision": "4b15afd4c09d7f3a3629a0c1e0e4c724",
     "url": "/VNT-Resume/index.html"
   }
 ];

@@ -14,7 +14,7 @@
 importScripts("https://storage.googleapis.com/workbox-cdn/releases/3.6.3/workbox-sw.js");
 
 importScripts(
-  "/VNT-Resume/precache-manifest.01134aa07700a729c167799570878360.js"
+  "/VNT-Resume/precache-manifest.bac548bb0824dc1803ee20a04f5eb3a8.js"
 );
 
 workbox.clientsClaim();
