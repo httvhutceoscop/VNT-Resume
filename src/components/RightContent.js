@@ -262,9 +262,24 @@ class RightContent extends Component {
                 </div>
             </div>
 
-            <div className="w3-container w3-card w3-white">
+            <div className="w3-container w3-card w3-white w3-margin-bottom">
                 <h2 className="w3-text-grey w3-padding-16">
                     <i className="fa fa-certificate fa-fw w3-margin-right w3-xxlarge w3-text-teal"></i>
+                    Certification
+                </h2>
+                <div className="w3-container">
+                    <h5>
+                        <a href='https://www.credly.com/badges/39dd44d5-e14a-4acf-9041-7676d1a195dd/public_url' target='_blank'>
+                            <img class="w3-margin-right" src="https://images.credly.com/size/220x220/images/260e36dc-d100-45c3-852f-9d8063fa71e6/pmp-600px.png" alt="Project Management Professional (PMP)®" width="110" height="110" />
+                            <strong>Project Management Professional (PMP)®</strong>
+                        </a>
+                    </h5>
+                </div>
+            </div>
+
+            <div className="w3-container w3-card w3-white">
+                <h2 className="w3-text-grey w3-padding-16">
+                    <i className="fa fa-solid fa-graduation-cap fa-fw w3-margin-right w3-xxlarge w3-text-teal"></i>
                     Education
                 </h2>
                 <div className="w3-container">
