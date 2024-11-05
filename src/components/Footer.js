@@ -21,7 +21,7 @@ class Footer extends Component {
         </a>
         <p>
           Powered by{" "}
-          <a href={urls.MY_SITE} target="_blank">
+          <a href={urls.MY_SITE} target="_blank" rel='noreferrer'>
             kysuit.net
           </a>
         </p>

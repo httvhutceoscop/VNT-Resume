@@ -1,16 +1,16 @@
 {
   "name": "vnt-resume",
-  "version": "0.1.1",
+  "version": "0.2.0",
   "private": true,
   "homepage": "https://httvhutceoscop.github.io/VNT-Resume/",
   "dependencies": {
-    "gh-pages": "2.0.1",
-    "react": "^16.8.6",
-    "react-dom": "^16.8.6",
-    "react-scripts": "2.1.8"
+    "gh-pages": "^6.2.0",
+    "react": "^18.3.1",
+    "react-dom": "^18.3.1",
+    "react-scripts": "^5.0.1"
   },
   "scripts": {
-    "predeploy": "yarn build",
+    "pre-deploy": "yarn build",
     "deploy": "gh-pages -d build",
     "start": "react-scripts start",
     "build": "react-scripts build",
@@ -27,6 +27,6 @@
     "not op_mini all"
   ],
   "devDependencies": {
-    "react-ga": "^3.3.0"
+    "react-ga": "^3.3.1"
   }
 }
