@@ -4,7 +4,7 @@
 
 import React, { Component } from 'react';
 import VMO from '../companies/VMO';
-import Amela from '../companies/Amela';
+// import Amela from '../companies/Amela';
 import Kaopiz from '../companies/Kaopiz';
 import FujitechJSC from '../companies/FujitechJSC';
 import MyatsuVietNam from '../companies/MyatsuVietNam';
@@ -20,7 +20,7 @@ class WorkExperience extends Component {
                 </h2>
                 {/* List companies */}
                 <VMO />
-                <Amela />
+                {/* <Amela /> */}
                 <Kaopiz />
                 <FujitechJSC />
                 <MyatsuVietNam />

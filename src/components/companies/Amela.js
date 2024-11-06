@@ -29,7 +29,7 @@ class Amela extends Component {
                 <h6>Completed Major Projects</h6>
                 <ul>
                     <li>
-                        <strong>Love Rec (Base)</strong>
+                        <strong>LRC</strong>
                         <ul>
                             <li><b><em>Description: </em></b>Building an adult web entertainment system along with a CMS to manage videos and payments.</li>
                             <li><b><em>Business Domain: </em></b>Entertainment</li>

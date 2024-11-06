@@ -7,7 +7,7 @@ class Kaopiz extends Component {
                 <h5 className="w3-opacity"><strong>Kaopiz Software Co., Ltd.</strong></h5>
                 <h6 className="w3-text-teal">
                     <i className="fa fa-calendar fa-fw w3-margin-right"></i>
-                    <strong>01 year 09 months</strong> from September 2021 to June 2023
+                    <strong>02 year 04 months</strong> from September 2021 to February 2024
                 </h6>
 
                 <ul>
@@ -34,7 +34,22 @@ class Kaopiz extends Component {
                 <h6>Completed Major Projects</h6>
                 <ul>
                     <li>
-                        <strong>Project About The EL System (Base)</strong>
+                        <strong>Project About Video and Entertainment</strong>
+                        <ul>
+                            <li><b><em>Description: </em></b>Building an adult web entertainment system along with a CMS to manage videos and payments.</li>
+                            <li><b><em>Business Domain: </em></b>Entertainment</li>
+                            <li><b><em>Position: </em></b> PM</li>
+                            <li><b><em>Members: </em></b> 11 (1 PM, 1 Comtor, 3 FE, 2 BE, 2 Tester, 1 Infra, 1 Designer)</li>
+                            <li><b><em>Technical: </em></b> Ubuntu, Ruby, VueJS3, TypeScript, HTML5, CSS3, AWS Services (EC2, CloudWatch, RDS, Load Balancer, WAF, CodeBuild, Batch, ...)</li>
+                            <li><b><em>Tools - Utilities: </em></b> MS Teams, SharePoint, Backlog, Git, Figma</li>
+                            <li><b><em>Project Phases: </em></b> Business analysis, Requirement definition, Basic design, Detailed design, Programming, Unit test, Integrated test, System test</li>
+                            {/* <li><b><em>Project Type: </em></b>Based</li> */}
+                            {/* <li><b><em>Duration: </em></b>04/09/2024 - 01/11/2024</li> */}
+                            {/* <li><b><em>MM: </em></b>9.87</li> */}
+                        </ul>
+                    </li>
+                    <li>
+                        <strong>Project About The EL System</strong>
                         <ul>
                             <li><b><em>Description:</em></b> The add-on system helps automate the process of sending mail, correspondence, and status feedback.</li>
                             <li><b><em>Position:</em></b> PM</li>
@@ -42,10 +57,11 @@ class Kaopiz extends Component {
                             <li><b><em>Technical:</em></b> Ubuntu, Ruby, VueJS3, TypeScript, HTML5, CSS3, AWS Services (EC2, CloudWatch, RDS, Load Balancer, WAF, CodeBuild, Batch, ...)</li>
                             <li><b><em>Tools - Utilities:</em></b> MS Teams, SharePoint, Box, Email, Visual Code, Jira, Git, Bitbucket, Figma, Outlook</li>
                             <li><b><em>Project Phases:</em></b> Business analysis, Requirement definition, Basic design, Detailed design, Programming, Unit test, Integrated test, System test, Maintenance and Operation, Server design, Server construction, Network design, Network construction, Infrastructure implementation and test</li>
+                            {/* <li><b><em>Project Type: </em></b>Based</li> */}
                         </ul>
                     </li>
                     <li>
-                        <strong>Project About VR (Base)</strong>
+                        <strong>Project About VR</strong>
                         <ul>
                             <li><b><em>Description:</em></b> VR device management system and related videos</li>
                             <li><b><em>Position:</em></b> PM</li>
@@ -53,10 +69,11 @@ class Kaopiz extends Component {
                             <li><b><em>Technical:</em></b> Ubuntu, MySQL, Java Spring Boot, VueJS2, HTML5, CSS3, JavaScript, AWS S3, AWS EC2</li>
                             <li><b><em>Tools - Utilities:</em></b> MS Teams, SharePoint, Email, Visual Code, Slack, Jira, Git, Bitbucket</li>
                             <li><b><em>Project Phases:</em></b> Business analysis, Requirement definition, Basic design, Detailed design, Programming, Unit test, Integrated test, System test, Maintenance and Operation, Server design</li>
+                            {/* <li><b><em>Project Type: </em></b>Based</li> */}
                         </ul>
                     </li>
                     <li>
-                        <strong>Project About Labor Safety (Labo)</strong>
+                        <strong>Project About Labor Safety</strong>
                         <ul>
                             <li><b><em>Description:</em></b> Occupational safety management system. Allow export report file for each construction location, contractor.</li>
                             <li><b><em>Position:</em></b> PM</li>
@@ -64,10 +81,11 @@ class Kaopiz extends Component {
                             <li><b><em>Technical:</em></b> Linux, MySQL, C#, .Net, HTML5, CSS3, JavaScript, AWS S3, Git</li>
                             <li><b><em>Tools - Utilities:</em></b> MS Teams, Backlog, SharePoint, Jira, Email, Visual Studio, Reshaper</li>
                             <li><b><em>Project Phases:</em></b> Requirement definition, Basic design, Detailed design, Programming, Unit test, Integrated test, System test, Maintenance and Operation, Server design</li>
+                            {/* <li><b><em>Project Type: </em></b>Labo</li> */}
                         </ul>
                     </li>
                     <li>
-                        <strong>Project About Medical (Labo)</strong>
+                        <strong>Project About Medical</strong>
                         <ul>
                             <li><b><em>Description:</em></b> Allows the doctor of each hospital to monitor the patient's examination information such as: blood pressure, heart rate, pulse, activities, diet ... Make request related to electrocardiogram, export to PDF. Develop patient app using Flutter for both Android and iOS, deploy to TestFlight</li>
                             <li><b><em>Position:</em></b> PM</li>
@@ -75,6 +93,7 @@ class Kaopiz extends Component {
                             <li><b><em>Technical:</em></b> Linux, Amazon Aura MySQL, Dart, JavaScript, TypeScript, NodeJS, HTML5, CSS3, Flutter, Angular, ArmChart, Bootstrap 4, AWS Services (S3, Gateway, RDS, Cognito, SES, Batch, CodeBuild, Code Pipeline, ClouldTrail, Route 53, CloudWatch ...) ELK, Firebase</li>
                             <li><b><em>Tools - Utilities:</em></b> MS Teams, SharePoint, Backlog, ChatWork, Email, Visual Code, Jira, Git, Bitbucket, TestFlight, DeployGate, JMeter, Figma</li>
                             <li><b><em>Project Phases:</em></b> Business analysis, Requirement definition, Basic design, Detailed design, Programming, Unit test, Integrated test, System test, Maintenance and Operation, Server design, Server construction, Network design, Network construction, Infrastructure implementation and test</li>
+                            {/* <li><b><em>Project Type: </em></b>Labo</li> */}
                         </ul>
                     </li>
                 </ul>
