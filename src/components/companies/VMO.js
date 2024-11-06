@@ -23,6 +23,8 @@ class VMO extends Component {
                             <li>Support BrSE, Comtor and development team the good solution before discussing with client.</li>
                             <li>Making deployment document to be released to the client.</li>
                             <li>Join almost organization's activities such as football club, E-sport Club, Book Club.</li>
+                            <li>Participate in the BID process as the BID owner to secure projects for the company.
+                            </li>
                         </ul>
                     </li>
                 </ul>
