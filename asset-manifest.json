@@ -1,15 +1,15 @@
 {
   "files": {
     "main.css": "/VNT-Resume/static/css/main.297f33d2.css",
-    "main.js": "/VNT-Resume/static/js/main.b98d89fb.js",
+    "main.js": "/VNT-Resume/static/js/main.a44249e7.js",
     "static/media/avatar.png": "/VNT-Resume/static/media/avatar.ce8d446d6f895847db71.png",
     "static/media/pmp_badge.png": "/VNT-Resume/static/media/pmp_badge.15766da02fea985bf361.png",
     "index.html": "/VNT-Resume/index.html",
     "main.297f33d2.css.map": "/VNT-Resume/static/css/main.297f33d2.css.map",
-    "main.b98d89fb.js.map": "/VNT-Resume/static/js/main.b98d89fb.js.map"
+    "main.a44249e7.js.map": "/VNT-Resume/static/js/main.a44249e7.js.map"
   },
   "entrypoints": [
     "static/css/main.297f33d2.css",
-    "static/js/main.b98d89fb.js"
+    "static/js/main.a44249e7.js"
   ]
 }
