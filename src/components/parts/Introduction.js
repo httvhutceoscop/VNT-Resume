@@ -10,12 +10,13 @@ class Introduction extends Component {
                 </h2>
                 <div className="w3-container">
                     <p>
-                        I am very active in life, thirst for knowledge, and have high responsibility for my job. I love reading books, animals and sports, especially football.<br />
-                        I am very interested in community activities.<br />
-                        I love programming and management.<br />
-                        I learned new language programming myself and built an education app on CH Play: <a href='https://play.google.com/store/apps/details?id=com.toilamit.EssentialWordsByImage&hl=vi&gl=US' target='_blank' rel='noopener noreferrer'>600 Từ Vựng TOEIC</a> <br />
-                        I often read a book, online to research new technical or management while drinking a cup of coffee. Writting blog is also my hobbit, you can see my blog here: <a href='https://kysuit.net' target='_blank' rel='noopener noreferrer'>https://kysuit.net</a><br />
-                        I always make a clear plan in my career path and thus it helps me a lot in works and life.<br />
+                        I am a proactive and responsibility-driven professional with a strong passion for continuous learning, engineering, and project management. Outside of work, I enjoy reading, community initiatives, sports (especially football), and caring for animals.<br /><br />
+                        
+                        A self-taught software developer at heart, I independently built and published an educational app on Google Play: <a href='https://play.google.com/store/apps/details?id=com.toilamit.EssentialWordsByImage&hl=vi&gl=US' target='_blank' rel='noopener noreferrer'>600 Essential TOEIC Words</a>. I also regularly write tech & management insights on my personal blog at <a href='https://kysuit.net' target='_blank' rel='noopener noreferrer'>kysuit.net</a>.<br /><br />
+                        
+                        Capitalizing on recent AI innovations, I utilize tools like Claude Code to develop custom web applications, including <a href='https://lingo-land.xyz' target='_blank' rel='noopener noreferrer'>Lingo Land</a> and an <a href='https://app-expense-manager.vercel.app/login' target='_blank' rel='noopener noreferrer'>Expense Manager</a>. Furthermore, I design and package custom AI Agents and Skills into practical tools to streamline my daily workflows (<a href='https://lnkd.in/dbQsM_WT' target='_blank' rel='noopener noreferrer'>view showcase</a>).<br /><br />
+                        
+                        With clear goals and structured career planning, I continuously apply this proactive mindset to deliver real value in both work and life.
                     </p>
                     <br />
                 </div>
