@@ -92,7 +92,7 @@ class FujitechJSC extends Component {
                         <ul>
                             <li>Build system to manage the reward points for merchant. Give points whenever user finish purchasing.</li>
                             <li><b><em>Position:</em></b> TL</li>
-                            <li>App: https://spotted.cool/shopify-apps/%E3%83%9D%E3%82%A4%E3%83%B3%E3%83%88%E3%83%8B%E3%83%B3%E3%82%B8%E3%83%A3%E2%80%91point-ninja%E2%80%91/</li>
+                            {/* <li>App: https://spotted.cool/shopify-apps/%E3%83%9D%E3%82%A4%E3%83%B3%E3%83%88%E3%83%8B%E3%83%B3%E3%82%B8%E3%83%A3%E2%80%91point-ninja%E2%80%91/</li> */}
                             <li><b><em>Technical:</em></b> C#, .Net, Html5, CSS3, Bootstrap 4, jQuery, AzurePortals, AzureDevOps, SQL</li>
                         </ul>
                     </li>
