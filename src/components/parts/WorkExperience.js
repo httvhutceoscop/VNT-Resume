@@ -3,6 +3,7 @@
 // Project phases | 1)Business analysis | 2)Requirement definition | 3)Basic design  | 4)Detailed design | 5)Programming | 6)Unit test | 7)Integrated test  | 8)System test | 9)Maitenance and Operation | 10)Server design | 11)Server construction | 12)Network design | 13)Network construction | | 14)Infrastructure implementation and test |
 
 import React, { Component } from 'react';
+import Fabbi from '../companies/Fabbi';
 import VMO from '../companies/VMO';
 // import Amela from '../companies/Amela';
 import Kaopiz from '../companies/Kaopiz';
@@ -19,6 +20,7 @@ class WorkExperience extends Component {
                     <span>Work Experience</span>
                 </h2>
                 {/* List companies */}
+                <Fabbi />
                 <VMO />
                 {/* <Amela /> */}
                 <Kaopiz />

@@ -7,7 +7,7 @@ class VMO extends Component {
                 <h5 className="w3-opacity"><strong>VMO Holdings</strong></h5>
                 <h6 className="w3-text-teal">
                     <i className="fa fa-calendar fa-fw w3-margin-right"></i>
-                    <span>March 2024 - <span className="w3-tag w3-teal w3-round">Current</span></span>
+                    <strong>01 year</strong> from March 2024 to February 2025
                 </h6>
 
                 <ul>

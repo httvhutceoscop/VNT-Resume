@@ -47,10 +47,10 @@ const skills = [
       { name: "Communication Skills", value: 80 },
       { name: "Risk Management Skills", value: 80 },
       { name: "A/B Testing & Experimentation", value: 70 },
-      { name: "Google Analytics / Google Search", value: 65 },
-      { name: "Tools: Backlog / Redmine", value: 65 },
+      { name: "Google Analytics / Google Search / Google Console", value: 65 },
+      { name: "Tools: Backlog / Jira / Confluence / Redmine", value: 65 },
       { name: "報・連・相 (Ho-Ren-So)", value: 65 },
-      { name: "Artificial Intelligence (AI)", value: 55},
+      { name: "Artificial Intelligence (AI): Claude, Gemini, OpenAI", value: 55},
     ],
   },
   {
@@ -81,10 +81,12 @@ const skills = [
     type: "System Cloud",
     items: [
       {
-        name: "AWS / EC2 / Lambda / DynamoDB / RDS / EB / ELB / CloudWatch / SNS / SQS",
+        name: "AWS / EC2 / ECS / Lambda / DynamoDB / RDS / EB / ELB / CloudWatch / SNS / SQS / Route53",
         value: 80,
       },
       { name: "Microsoft Azure", value: 60 },
+      { name: "Google Cloud", value: 60 },
+      { name: "CloudFlare", value: 60 },
     ],
   },
   {
