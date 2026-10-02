@@ -50,6 +50,7 @@ const skills = [
       { name: "Google Analytics / Google Search", value: 65 },
       { name: "Tools: Backlog / Redmine", value: 65 },
       { name: "報・連・相 (Ho-Ren-So)", value: 65 },
+      { name: "Artificial Intelligence (AI)", value: 55},
     ],
   },
   {

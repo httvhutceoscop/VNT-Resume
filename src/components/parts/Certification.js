@@ -1,5 +1,7 @@
 import React, { Component } from 'react';
 import PMPBadge from "../../assets/img/pmp_badge.png";
+import Claude101Badge from "../../assets/img/claude_101_badge.jpg";
+import ClaudeCode101Badge from "../../assets/img/claude_code_101_badge.jpg";
 
 class Certification extends Component {
     render() {
@@ -12,8 +14,20 @@ class Certification extends Component {
                 <div className="w3-container">
                     <h5>
                         <a href='https://www.credly.com/badges/39dd44d5-e14a-4acf-9041-7676d1a195dd/public_url' target='_blank' rel='noreferrer'>
-                            <img className="w3-margin-right" src={PMPBadge} alt="Project Management Professional (PMP)®" width="110" height="110" />
+                            <img className="w3-margin-right" src={PMPBadge} alt="Project Management Professional (PMP)®" width="auto" height="110" />
                             <strong>Project Management Professional (PMP)®</strong>
+                        </a>
+                    </h5>
+                    <h5>
+                        <a href='https://academy.claude.com/verify/87d5e1a8abcbc66aea5d3797f0120b19' target='_blank' rel='noreferrer'>
+                            <img className="w3-margin-right" src={Claude101Badge} alt="Claude Academy: Claude 101" width="auto" height="64" />
+                            <strong>Claude Academy: Claude 101</strong>
+                        </a>
+                    </h5>
+                    <h5>
+                        <a href='https://academy.claude.com/verify/ddc4dcee528280df54f6026bfd1fbb09' target='_blank' rel='noreferrer'>
+                            <img className="w3-margin-right" src={ClaudeCode101Badge} alt="Claude Academy: Claude Code 101" width="auto" height="64" />
+                            <strong>Claude Academy: Claude Code 101</strong>
                         </a>
                     </h5>
                     <br />
