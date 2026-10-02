@@ -35,6 +35,21 @@ class Fabbi extends Component {
                 <h6>Completed Major Projects</h6>
                 <ul>
                     <li>
+                        <strong>Kenlas</strong>
+                        <ul>
+                            <li><b><em>Description: </em></b>Customs Liquidation Reporting System: An AI-powered solution for processing input data, automating data mapping, calculating Actual BOM, and generating mandatory customs reconciliation reports.</li>
+                            <li><b><em>Business Domain: </em></b>Logistic</li>
+                            <li><b><em>Position: </em></b>PM</li>
+                            <li><b><em>Members: </em></b>12 (1 PM, 1 BA, 1 Designer, 1 Tech Lead, 3 Dev BE, 2 Dev FE, 3 Tester)</li>
+                            <li><b><em>Technical: </em></b>ReactJS, NodeJS/NestJS, Python, AWS (RDS, S3, CloudFront, Rout53, ECS, EC2, SES, ), gpt-4.1-mini, Claue Code</li>
+                            <li><b><em>Tools - Utilities: </em></b>Zalo, Nulab Backlog, Google Drive, Git Backlog, Agile/Scrum, Figma</li>
+                            <li><b><em>Project Phases: </em></b>Business analysis, Requirement definition, Architecture Design, Design UI/UX, Programming, Integrated test, System test</li>
+                            {/* <li><b><em>Project Type: </em></b>Based</li> */}
+                            {/* <li><b><em>Duration: </em></b>06/2025 - 10/2025</li> */}
+                            {/* <li><b><em>MM: </em></b>15</li> */}
+                        </ul>
+                    </li>
+                    <li>
                         <strong>FundHub</strong>
                         <ul>
                             <li><b><em>Description: </em></b>A university funding support and management system: AI-driven discovery & recommendations, application submission management, review, and post-award tracking. Users: URA/admin offices, faculty, researchers, and reviewers.</li>
@@ -49,21 +64,6 @@ class Fabbi extends Component {
                             {/* <li><b><em>MM: </em></b>15</li> */}
                         </ul>
                     </li>
-                    {/* <li> */}
-                        {/* <strong></strong> */}
-                        {/* <ul> */}
-                            {/* <li><b><em>Description: </em></b></li> */}
-                            {/* <li><b><em>Business Domain: </em></b></li> */}
-                            {/* <li><b><em>Position: </em></b>PM</li> */}
-                            {/* <li><b><em>Members: </em></b>12 (1 PM, 1 BrSE, 0.5 Designer, 0.5 DevOps, 0.5 Dev AI, 2 Dev BE, 3 Dev FE, 2 Tester)</li> */}
-                            {/* <li><b><em>Technical: </em></b></li> */}
-                            {/* <li><b><em>Tools - Utilities: </em></b></li> */}
-                            {/* <li><b><em>Project Phases: </em></b>Business analysis, Requirement definition, Architecture Design, Design UI/UX, Programming, Integrated test, System test</li> */}
-                            {/* <li><b><em>Project Type: </em></b>Based</li> */}
-                            {/* <li><b><em>Duration: </em></b>06/2025 - 09/2025</li> */}
-                            {/* <li><b><em>MM: </em></b>4.32</li> */}
-                        {/* </ul> */}
-                    {/* </li> */}
                     <li>
                         <strong>Vital Camera</strong>
                         <ul>
